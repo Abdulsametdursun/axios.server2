@@ -1,0 +1,81 @@
+{
+  "todos": [
+    {
+      "title": "Learn JavaScript",
+      "status": "daily",
+      "id": "24595098-d926-40b0-970e-20c2c32916cf",
+      "date": "11/10/2023",
+      "isDone": false
+    },
+    {
+      "title": "Complete Python Tutorial",
+      "status": "important",
+      "id": "ed86f05f-2e19-4469-822e-533d7bee5848",
+      "date": "11/10/2023",
+      "isDone": false
+    },
+    {
+      "title": "Update Plan",
+      "status": "job",
+      "id": "5e2c8b14-ecda-4bb6-9441-ecda4f1f1df5",
+      "date": "11/10/2023",
+      "isDone": false
+    },
+    {
+      "title": "Review Marketing Strategy",
+      "status": "important",
+      "id": "1",
+      "date": "11/10/2023",
+      "isDone": false
+    },
+    {
+      "title": "Write Daily Blog Post",
+      "status": "daily",
+      "id": "7e2b3e",
+      "date": "11/10/2023",
+      "isDone": false
+    },
+    {
+      "title": "Organize Team Meeting",
+      "status": "job",
+      "id": "2e6b6f6c",
+      "date": "11/10/2023",
+      "isDone": false
+    },
+    {
+      "title": "Exercise for 30 Minutes",
+      "status": "daily",
+      "id": "50c7ce15f0b9e2",
+      "date": "11/10/2023",
+      "isDone": false
+    },
+    {
+      "title": "Pay the bills",
+      "status": "important",
+      "id": "4b08a8c4",
+      "date": "11/10/2023",
+      "isDone": false
+    },
+    {
+      "title": "Study Data Analysis",
+      "status": "job",
+      "id": "1efb2f",
+      "date": "11/10/2023",
+      "isDone": false
+    },
+    {
+      "title": "Update Resume and Portfolio",
+      "status": "job",
+      "id": "8a7f6e",
+      "date": "11/10/2023",
+      "isDone": false
+    },
+    {
+      "title": "Read a Chapter of a Boo",
+      "status": "important",
+      "id": "54368fa6-9f44-4ba8-a8e9-75f3c7d02566",
+      "date": "11/10/2023",
+      "isDone": false
+    }
+  ]
+}
